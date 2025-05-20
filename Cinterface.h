@@ -1,4 +1,4 @@
-/*! @file interface.h
+/*! @file Cinterface.h
     @brief Functions for command-line user interface management.
 	@author Mattia De Lorenzi e Matteo Abrate
 	

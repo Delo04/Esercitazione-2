@@ -1,4 +1,4 @@
-/*! @file interface.cpp
+/*! @file Cinterface.cpp
     @brief Implementation of command-line interface functions.
 	@author Mattia De Lorenzi e Matteo Abrate
 
