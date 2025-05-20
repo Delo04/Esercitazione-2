@@ -1,0 +1,5 @@
+*.exe
+*_td.c
+[Cc]ompiler/
+[Hh]tml/
+[Ll]atex/
